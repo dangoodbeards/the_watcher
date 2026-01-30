@@ -1,0 +1,9 @@
+:root{font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial}
+.header{display:flex;justify-content:space-between;align-items:center;padding:12px;border-bottom:1px solid #eee}
+.persona-buttons button{margin-left:8px;padding:8px 12px}
+.persona-buttons .active{background:#0366d6;color:#fff}
+.container{padding:16px}
+.create-form input{margin-right:8px;padding:6px}
+.sub-table{width:100%;border-collapse:collapse;margin-top:12px}
+.sub-table th,.sub-table td{border:1px solid #ddd;padding:8px;text-align:left}
+.producer-contact small{display:block;color:#555}
